@@ -20,7 +20,7 @@ Make sure you have a good MicroUSB charger.
 Etcher: https://etcher.io/
 Win32DiskImager: https://sourceforge.net/projects/win32diskimager/
 
-2. Download the Disk Image from this repository
+2. Download the Disk Image alt.lyken.org/LykenNAS.iso
 
 3. In Win32 Disk Imager or Etcher select the Disk Image and then select the device.
 
