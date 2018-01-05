@@ -20,7 +20,7 @@ Make sure you have a good MicroUSB charger.
 Etcher: https://etcher.io/
 Win32DiskImager: https://sourceforge.net/projects/win32diskimager/
 
-2. Download the Disk Image http://alt.lyken.org/LykenNAS.iso
+2. Download the Disk Image http://alt.lyken.org/LykenNAS.img
 
 3. In Win32 Disk Imager or Etcher select the Disk Image and then select the device.
 
@@ -46,6 +46,6 @@ Win32DiskImager: https://sourceforge.net/projects/win32diskimager/
 
 9. Once you are in go to the top right corner and select wifi then use wlan1 and connect to your network.
 
-10. Now you can disconnect and test the pi by going to the adress 192.168.1.200
+10. Now you can disconnect and test the pi by going to the adress of the RPI which you can see by starting The Run_Me python program
 
-11. You are done! Now you can type the adress 192.168.1.200 in the url bar and use the server like that.
+11. You are done! Now you can type the adress of the Pi in the url bar and use the server like that.
